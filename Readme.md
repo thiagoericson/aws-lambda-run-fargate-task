@@ -1,4 +1,4 @@
-# Boilerplate AWS Lambda - ECS Trigger - via Console
+# AWS Lambda - ECS Trigger - via Console
 
 ## Description
 
